@@ -1,8 +1,12 @@
-Bookmaniac - a e-book marketplace.
+Bookmaniac - a full functioning e-book marketplace.
+
+Upload your e-book and share it with the built in marketplace.
 
 Proudly build with NodeJS, ExpressJS, MongoDB and EJS, hosted on Railway.
 
 The v.2.0 will replace EJS with React to have a full stack MERN app.
+
+------------------------------------------------------------------
 
 Key features:
 
