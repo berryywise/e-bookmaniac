@@ -1,6 +1,6 @@
 Bookmaniac - a e-book marketplace.
 
-Proudly build with NodeJS, ExpressJS, MongoDB and EJS.
+Proudly build with NodeJS, ExpressJS, MongoDB and EJS, hosted on Railway.
 
 The v.2.0 will replace EJS with React to have a full stack MERN app.
 
