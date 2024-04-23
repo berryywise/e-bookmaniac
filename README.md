@@ -19,8 +19,6 @@ User account management - from name, address to crypto wallet and account verifi
 
 Different subscription tiers - to have your e-book stand out in the marketplace crowd.
 
-Mimic sales script for testing and demo purposes. Generates random sales with random products for a user over a span of 24 hours.
-
 Want to see a live demo? Check it out here 👉 https://app.bookmaniac.net/
 
 Use login 'admin' and password 'admin', or create your own account and achieve the full experience!
