@@ -4,8 +4,6 @@ Upload your e-book and share it with the built in marketplace.
 
 Proudly build with NodeJS, ExpressJS, MongoDB and EJS, hosted on Railway.
 
-The v.2.0 will replace EJS with React to have a full stack MERN app.
-
 ------------------------------------------------------------------
 
 Key features:
@@ -14,7 +12,7 @@ User authentication and authorization. Register - Login - Caching.
 
 Full email system. Email verification, password recovery, all the way to a new sale announcement.
 
-Live marketplace with crypto payment system integrated. (stripe soon to come).
+Live marketplace.
 
 Admin panel to approve new users & approve newly uploaded books.
 
