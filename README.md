@@ -1,4 +1,4 @@
-Bookmaniac - a full functioning e-book marketplace.
+Bookmaniac - a fullstack e-book marketplace.
 
 Upload your e-book and share it with the built in marketplace.
 
